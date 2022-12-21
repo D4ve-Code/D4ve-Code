@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [hackathon#1](https://github.com/D4ve-Code/Hackathon-1.git)
 
-- 🌱 I’m currently learning **#NodeJS**
+- 🌱 I’m currently learning **#Node.js** **#JavaScript** 
 
 - 💬 Ask me about **#JavaScript #React**
 
