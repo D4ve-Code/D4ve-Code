@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A developer in coming</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4ve-code" alt="d4ve-code" /></a> </p>
-
 - 🔭 I’m currently working on [hackathon#1](https://github.com/D4ve-Code/Hackathon-1.git)
 
 - 🌱 I’m currently learning **#NodeJS**
