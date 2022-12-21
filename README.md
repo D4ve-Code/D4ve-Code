@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A developer in coming</h3>
 
+- 📚 I'm studying at [WildCodeSchool](https://www.wildcodeschool.com/fr-FR)
+
 - 🔭 I’m currently working on [hackathon#1](https://github.com/D4ve-Code/Hackathon-1.git)
 
 - 🌱 I’m currently learning **#Express.js** **#MySQL**
-
-- 💬 Ask me about **#JavaScript #React**
 
 - 📫 How to reach me **david.oviedo@hotmail.fr**
 
