@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A Web Developer in coming</h3>
+<h3 align="center">A Web Developer</h3>
 
 - 📚 I'm studying at [WildCodeSchool](https://www.wildcodeschool.com/fr-FR)
 
