@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [hackathon#1](https://github.com/D4ve-Code/Hackathon-1.git)
 
-- 🌱 I’m currently learning **#Express.js** **#MySQL** and always **#JavaScript** 
+- 🌱 I’m currently learning **#React** **#MySQL** and always **#JavaScript** 
 
 - 📫 How to reach me **david.oviedo@hotmail.fr**
 
